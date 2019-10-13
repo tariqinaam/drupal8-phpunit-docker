@@ -1,4 +1,4 @@
-FROM php:7.2-cli-stretch
+FROM php:7.3.10-cli-stretch
 
 RUN apt-get update
 
